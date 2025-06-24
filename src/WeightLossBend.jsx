@@ -92,7 +92,7 @@ export default function WeightLossBend() {
                 onClick={handleClick}
                 className="relative inline-block text-2xl group focus:outline-none"
               >
-                <span className="relative z-10 block px-15 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
+                <span className="relative z-10 block px-8 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
                   <span className="absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-orange-500"></span>
                   <span className="absolute left-0 w-90 h-20 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-red-700 group-hover:-rotate-180 ease"></span>
                   <span className="relative font-bold">Try Weight Loss Blend Now</span>
@@ -177,7 +177,7 @@ export default function WeightLossBend() {
                 onClick={handleClick}
                 className="relative inline-block text-2xl group focus:outline-none"
               >
-                <span className="relative z-10 block px-15 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
+                <span className="relative z-10 block px-8 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
                   <span className="absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-orange-500"></span>
                   <span className="absolute left-0 w-90 h-20 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-red-700 group-hover:-rotate-180 ease"></span>
                   <span className="relative font-bold">Try Weight Loss Blend Now</span>
@@ -470,7 +470,7 @@ This stack reprograms.</strong></p>
                 onClick={handleClick}
                 className="relative inline-block text-2xl group focus:outline-none"
               >
-                <span className="relative z-10 block px-15 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
+                <span className="relative z-10 block px-8 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
                   <span className="absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-orange-500"></span>
                   <span className="absolute left-0 w-90 h-20 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-red-700 group-hover:-rotate-180 ease"></span>
                   <span className="relative font-bold">Try Weight Loss Blend Now</span>
