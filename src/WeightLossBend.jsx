@@ -295,8 +295,7 @@ export default function WeightLossBend() {
                   <thead>
                     <tr>
                       <th className=" text-center text-md p-4">Feature</th>
-                      <th className="bg-black text-white text-center font-black text-md p-5 rounded-t-lg">
-SLU‑PP‑332 Stack	                      </th>
+                      <th className="bg-black text-white text-center font-black text-md md:p-5 rounded-t-lg">SLU‑PP‑332 Stack</th>
                       <th className="text-center text-md p-4">
                         Typical Fat Burner
                       </th>
@@ -331,7 +330,7 @@ SLU‑PP‑332 Stack	                      </th>
                             {slu ? "✓" : "X"}
                           </span>
                         </td>
-                        <td className="text-center p-4 text-sm">
+                        <td className="text-center md:p-4 text-sm">
                           <span
                             className={
                               fat
